@@ -1,5 +1,5 @@
-# chatbot-learning-assistent
-chatbot-learning-assistent
+# chatbot-learning-assistant
+chatbot-learning-assistant
 
 ## Getting Started
 
