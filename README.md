@@ -34,5 +34,12 @@ Ensure you have Python installed. It is recommended to use `miniconda` or `conda
 
     ```bash
     streamlit run streamlit_react_app.py
-
+    
     The application will open in your web browser.
+
+5. **use API Key to try chatbot**
+   - Open https://aistudio.google.com/
+   - Klik Get API Key
+   - Copy your API Key
+   - Enter the API key into the chatbot sidebar
+
